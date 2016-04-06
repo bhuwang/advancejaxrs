@@ -1,0 +1,22 @@
+1. Servlet agnostic application - Bootstrapping using Application class
+
+2. Setting up pom.xml
+
+3. Application Class - @ApplicationPath annotation, Abstract class, you can override some of the methods.
+see - http://docs.oracle.com/javaee/7/api/javax/ws/rs/core/Application.html
+
+4. Resource Life Cycle - Request vs Singleton scope
+
+5. Param annotations and Member variables - Request scope only, Check for Singleton
+
+6. Param Converters
+
+7. Custom media types
+
+8. Jax-rs client
+
+9. authentication
+ - Digest access authentication
+ - Asymmetric cryptography
+ - Oauth
+ - JSON web tokens
